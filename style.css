@@ -853,6 +853,7 @@ h4 {
  footer li{
     list-style: none;
     line-height: 2;
+    height: 48px;
 }
  footer li:hover{
     color: wheat;
