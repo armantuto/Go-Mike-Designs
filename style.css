@@ -1,10 +1,3 @@
-@font-face {
-    font-family: 'woff2';
-    src: url('/fonts/fontawesome-webfont.woff2') format('woff2');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap; /* Esto carga la fuente de manera asincrónica y luego la utiliza */
-  }
 
 body {
     margin: 0;
@@ -13,7 +6,7 @@ body {
     overflow-x: hidden;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    font-family: 'woff2', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
    
     
 }
