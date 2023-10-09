@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'et-line';
-    src: local('/fonts/et-line.woff') format('woff');
+    src: local('./fonts/et-line.woff') format('woff');
     font-style: normal;
     font-weight: normal;
     font-display: swap;
