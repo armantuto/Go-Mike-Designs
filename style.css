@@ -1,9 +1,18 @@
 @font-face {
     font-family: 'et-line';
-    src: url('/fonts/et-line.woff') format('truetype');
+    src: url('/fonts/et-line.woff') format('woff');
     font-style: normal;
     font-weight: normal;
+    font-display: swap;
   }
+
+  @font-face {
+    font-family: 'Fuente1';
+    src: url('fuente1.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
 
 body {
     margin: 0;
