@@ -8,3 +8,14 @@ Project details:
 
 3-Demonstrate that your adjustments have improved the website by providing a before-and-after comparison of the results from Google’s Lighthouse tool, accounting for all action taken to optimize the website.
 
+# Index before optimization: ![index after optimization](https://github.com/armantuto/Go-Mike-Designs/assets/120113174/4329a161-df19-44b4-bef8-907c4f6ab8f1)
+
+# Index after optimization: ![index img](https://github.com/armantuto/Go-Mike-Designs/assets/120113174/ac8ce1e0-c2b5-4ce9-aff4-6c81488aa9e3)
+
+# Contact before optimization: ![contact after optimizacion](https://github.com/armantuto/Go-Mike-Designs/assets/120113174/0e7f6b6b-3eed-40ec-aed8-4812bd1e0876)
+
+# Contact after optimization: ![contact img](https://github.com/armantuto/Go-Mike-Designs/assets/120113174/d392fbb3-1890-40d6-aae9-1570c2b6cb46)
+
+
+
+
