@@ -1555,7 +1555,7 @@
                     return o.nodeName(a.target, "a")
                 }
             },
-            beforeunload: {
+            pagehide: {
                 postDispatch: function(a) {
                     void 0 !== a.result && (a.originalEvent.returnValue = a.result)
                 }
