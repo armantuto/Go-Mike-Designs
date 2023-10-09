@@ -21,6 +21,8 @@ Project details:
 # Contact after optimization: ![contact img](https://github.com/armantuto/Go-Mike-Designs/assets/120113174/d392fbb3-1890-40d6-aae9-1570c2b6cb46)
 
 
+<a href="![contact img](https://github.com/armantuto/Go-Mike-Designs/assets/120113174/d392fbb3-1890-40d6-aae9-1570c2b6cb46)
+"> link per foto <a/>
 
 
 
