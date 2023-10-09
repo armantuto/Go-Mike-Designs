@@ -362,9 +362,9 @@
         }, k = db.setDocument = function(a) {
             var b, e = a ? a.ownerDocument || a : t,
                 g = e.defaultView;
-            return e !== l && 9 === e.nodeType && e.documentElement ? (l = e, m = e.documentElement, n = !f(e), g && g !== g.top && (g.addEventListener ? g.addEventListener("unload", function() {
+            return e !== l && 9 === e.nodeType && e.documentElement ? (l = e, m = e.documentElement, n = !f(e), g && g !== g.top && (g.addEventListener ? g.addEventListener("pagehide", function() {
                 k()
-            }, !1) : g.attachEvent && g.attachEvent("onunload", function() {
+            }, !1) : g.attachEvent && g.attachEvent("pagehide", function() {
                 k()
             })), c.attributes = gb(function(a) {
                 return a.className = "i", !a.getAttribute("className")
@@ -2509,7 +2509,7 @@
         }, l.checkOn || (o.valHooks[this].get = function(a) {
             return null === a.getAttribute("value") ? "on" : a.value
         })
-    }), o.each("blur focus focusin focusout load resize scroll unload click dblclick mousedown mouseup mousemove mouseover mouseout mouseenter mouseleave change select submit keydown keypress keyup error contextmenu".split(" "), function(a, b) {
+    }), o.each("blur focus focusin focusout load resize scroll pagehide click dblclick mousedown mouseup mousemove mouseover mouseout mouseenter mouseleave change select submit keydown keypress keyup error contextmenu".split(" "), function(a, b) {
         o.fn[b] = function(a, c) {
             return arguments.length > 0 ? this.on(b, null, a, c) : this.trigger(b)
         }
@@ -2895,7 +2895,7 @@
             1223: 204
         },
         Fc = o.ajaxSettings.xhr();
-    a.ActiveXObject && o(a).on("unload", function() {
+    a.ActiveXObject && o(a).on("pagehide", function() {
         for (var a in Dc) Dc[a]()
     }), l.cors = !!Fc && "withCredentials" in Fc, l.ajax = Fc = !!Fc, o.ajaxTransport(function(a) {
         var b;
