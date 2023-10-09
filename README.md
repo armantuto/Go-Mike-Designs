@@ -1,5 +1,6 @@
 # ![atlanta web design logo](https://github.com/armantuto/Go-Mike-Designs/assets/120113174/3b1b535a-703b-4853-9988-9155bec8b302)
 
+# Site preview https://armantuto.github.io/Go-Mike-Designs/
 Project details:
 
 1-Audit the existing website by identifying relevant SEO and accessibility issues, noting an explanation and a credible reference (documentation, research paper, journal…) for each one. Your audit will include a selection of at least 10 actions to take to improve the website’s accessibility and/or SEO (including size and speed).
