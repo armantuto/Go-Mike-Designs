@@ -16,9 +16,9 @@ Project details:
 
 #  <a href="https://user-images.githubusercontent.com/120113174/273804406-06f14c30-1eff-4032-b4e2-ba80383a5edf.png">Index after optimization:</a>    ![index img](https://github.com/armantuto/Go-Mike-Designs/assets/120113174/ac8ce1e0-c2b5-4ce9-aff4-6c81488aa9e3)
 
-# Contact before optimization: ![contact after optimizacion](https://github.com/armantuto/Go-Mike-Designs/assets/120113174/0e7f6b6b-3eed-40ec-aed8-4812bd1e0876)
+# <a href="https://user-images.githubusercontent.com/120113174/273804471-dca0662d-c741-4794-bd79-205dceb6e89a.png">Contact before optimization:</a> ![contact after optimizacion](https://github.com/armantuto/Go-Mike-Designs/assets/120113174/0e7f6b6b-3eed-40ec-aed8-4812bd1e0876)
 
-# Contact after optimization: ![contact img](https://github.com/armantuto/Go-Mike-Designs/assets/120113174/d392fbb3-1890-40d6-aae9-1570c2b6cb46)
+# <a href="https://user-images.githubusercontent.com/120113174/273804544-73608832-dc7f-4e5f-8441-3062359b01fc.png">Contact after optimization:</a> ![contact img](https://github.com/armantuto/Go-Mike-Designs/assets/120113174/d392fbb3-1890-40d6-aae9-1570c2b6cb46)
 
 
 
